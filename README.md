@@ -131,12 +131,6 @@ Contributions are welcome! Feel free to:
 
 Taniya
 - GitHub: [@taniya2008](https://github.com/taniya2008)
-- Email: taniya@example.com
-
-## Acknowledgments
-
-- NumPy documentation: https://numpy.org/
-- Great resource for learning NumPy: https://numpy.org/doc/stable/user/index.html
 
 ---
 
